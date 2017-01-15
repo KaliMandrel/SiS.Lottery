@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SiSLottery/.vs
+/SiSLottery/Logger/bin/Debug
+/SiSLottery/Logger/obj/Debug
+/SiSLottery/LotteryRepository/bin/Debug
+/SiSLottery/LotteryRepository/obj/Debug
+/SiSLottery/Models/bin/Debug
+/SiSLottery/Models/obj/Debug
+/SiSLottery/packages
+/SiSLottery/SiSLottery/App_Data
+/SiSLottery/SiSLottery/bin
+/SiSLottery/SiSLottery/obj/Debug
+/SiSLottery/UnitTests/bin/Debug
+/SiSLottery/UnitTests/obj/Debug
+/SiSLottery/Validation/bin/Debug
+/SiSLottery/Validation/obj/Debug
